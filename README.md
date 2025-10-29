@@ -2,5 +2,5 @@
 
 ### RouterOS 7
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/safrinnetwork/Auto-Install-MikroTik-CHR-on-Docker/main/RoS7/v7.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/harismuzaki19/Mikrotik-CHR-docker/refs/heads/main/v7.sh)
 ```
